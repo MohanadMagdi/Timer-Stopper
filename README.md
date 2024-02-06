@@ -47,4 +47,4 @@ Open [http://localhost:5173/](http://localhost:5173/) with your browser to see t
 
 ### Finished Build
 
-![FinishBuild](https://github.com/MohanadMagdi/Tic_Tac_Toe_App/issues/1#issue-2119233415)
+![alt text](https://github.com/MohanadMagdi/Tic_Tac_Toe_App/issues/1#issue-2119233415)
